@@ -39,6 +39,9 @@ const allowedOrigins = [
   "http://localhost:3000", // React frontend in local development
   "http://localhost:5173",
   "https://omes-ahgpcqfjdmb8h4bh.canadacentral-01.azurewebsites.net", // Production URL
+  "https://growthyari.vercel.app",
+  "https://www.growthyari.com/",
+  "https://growthyari.com/",
 ];
 
 app.use(
